@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ayushsingh48
-- 👀 I’m interested in New Technologies and Softwares
+- 👋 Hi, I’m Ayush singh
+- 👀 I’m interested in New Technologies and Softwares.
 - 🌱 I’m currently a college student.
 - 💞️ I’m looking to collaborate on New Projects and Works.
 - 📫 insta handle - @ayussh_29
