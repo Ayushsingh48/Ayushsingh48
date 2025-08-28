@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayush Singh
+                               # Hi 👋, I'm Ayush Singh
 
 🚀 MERN Stack Web Developer | Python / C++ / JavaScript Programmer | React-native App Developer |  
 | Exploring AI / ML / Blockchain  
